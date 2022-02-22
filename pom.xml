@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>deploymentRepo</id>
-		    <url>http://13.233.8.246:8081/repository/sample2/</url>
+		    <url>http://13.233.8.246:8081/repository/sample1/</url>
 		</repository>
   	</distributionManagement>
 	
