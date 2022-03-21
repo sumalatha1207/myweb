@@ -1,5 +1,5 @@
 ---
- - hosts: webservers
+ - hosts: all
    tasks:
      - name: copy the file from local to remote
        copy:
